@@ -32,6 +32,7 @@
 	url_slides = "https://ymingl.com/GSMDC/",
     keywords = {reasoning, robustness, interpretability}
 }
+
 @inproceedings{wang-etal-2025-identifying,
     title = "Identifying and Answering Questions with False Assumptions: An Interpretable Approach",
     author = "Wang, Zijie and Blanco, Eduardo",
@@ -42,6 +43,7 @@
     publisher = "Association for Computational Linguistics",
     url = "https://arxiv.org/abs/2508.15139",
 }
+
 @inproceedings{su2025semantic,
 title={A Semantic Parsing Framework for End-to-End Time Normalization},
 author={Su, Xin and Yu, Sungduk and Howard, Phillip and Bethard, Steven},
@@ -51,6 +53,7 @@ year={2025},
 url={https://openreview.net/forum?id=aZooxbW63m},
 keywords={timelines, information extraction},
 }
+
 @inproceedings{su-etal-2025-transformer,
     title = "Transformer-Based Temporal Information Extraction and Application: A Review",
     author = "Su, Xin and Howard, Phillip and Bethard, Steven",
@@ -62,6 +65,7 @@ keywords={timelines, information extraction},
     url = "https://openreview.net/forum?id=YjrVb8VNKi",
     keywords = {timelines, information extraction},
 }
+
 @article{LI2025104881,
 title = {Identifying task groupings for multi-task learning using pointwise V-usable information},
 journal = {Journal of Biomedical Informatics},
@@ -75,6 +79,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S1532046425001108},
 author = {Yingya Li and Timothy Miller and Steven Bethard and Guergana Savova},
 keywords = {health, machine learning, negation},
 }
+
 @article{Stava_2025,
 doi = {10.1088/1748-9326/addee5},
 url = {https://dx.doi.org/10.1088/1748-9326/addee5},
@@ -89,6 +94,7 @@ title = {Quantifying the substantive influence of public comment on United State
 journal = {Environmental Research Letters},
 keywords = {environmental policy},
 }
+
 @inproceedings{gonzalez-lopez-etal-2025-applying,
     title = "Applying Transformer Architectures to Detect Cynical Comments in {S}panish Social Media",
     author = "Gonzalez-Lopez, Samuel  and
@@ -197,15 +203,27 @@ keywords = {environmental policy},
   url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443714},
 
 @inproceedings{dumitru-etal-2025-variable,
-    title = "Variable Layerwise Quantization: A Simple and Effective Approach to Quantize LLMs",
-    author = "Razvan-Gabriel Dumitru and Vikas Yadav and Rishabh Maheshwary and Paul Ioan Clotan and Sathwik Tejaswi Madhusudhan and Surdeanu, Mihai",
+    title = "Variable Layerwise Quantization: A Simple and Effective Approach to Quantize {LLM}s",
+    author = "Dumitru, Razvan-Gabriel  and
+      Yadav, Vikas  and
+      Maheshwary, Rishabh  and
+      Clotan, Paul Ioan  and
+      Madhusudhan, Sathwik Tejaswi  and
+      Surdeanu, Mihai",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
-    url="",
-    pages = "",
-    ISBN = "",
+    url = "https://aclanthology.org/2025.findings-acl.29/",
+    doi = "10.18653/v1/2025.findings-acl.29",
+    pages = "534--550",
+    ISBN = "979-8-89176-256-5",
+    abstract = "We present a simple meta quantization approach that quantizes different layers of a large language model (LLM) at different bit levels, and is independent of the underlying quantization technique. Specifically, we quantize the most important layers to higher bit precision and less important layers to lower bits. We propose two effective strategies to measure the importance of layers within LLMs: the first measures the importance of a layer based on how different its output embeddings are from the input embeddings (higher is better); the second estimates the importance of a layer using the number of layer weights that are much larger than average (smaller is better). We show that quantizing different layers at varying bits as per our importance scores results in minimal performance drop with a far more compressed model. Finally, we present several practical key takeaways from our variable layer-wise quantization experiments: (a) LLM performance under variable quantization remains close to the original model until 25{--}50{\%} of layers are moved in lower quantization using our proposed ordering but only until 5{--}10{\%} if moved using no specific ordering; (b) Adding layer importance to inherently dynamic quantization techniques can further improve their performance, showing that our approach is complementary to other dynamic quantization methods; (c) Quantizing LLMs to lower bits performs substantially better than pruning unless extreme quantization (2-bit) is used; and (d) Layer-wise quantization to lower bits works better in the case of larger LLMs with more layers compared to smaller LLMs with fewer layers."
 }
 
 @inproceedings{cooper-etal-2025-lies,
