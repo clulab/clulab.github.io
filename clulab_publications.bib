@@ -1,3 +1,25 @@
+@inproceedings{dumitru-etal-2025-copyspec,
+    title = "{C}opy{S}pec: Accelerating {LLM}s with Speculative Copy-and-Paste",
+    author = "Dumitru, Razvan-Gabriel  and
+      Yang, Minglai  and
+      Yadav, Vikas  and
+      Surdeanu, Mihai",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1337/",
+    doi = "10.18653/v1/2025.emnlp-main.1337",
+    pages = "26301--26332",
+    ISBN = "979-8-89176-332-6",
+    abstract = "We introduce CopySpec, a simple yet effective technique to tackle the inefficiencies LLMs face when generating responses that closely resemble previous outputs or responses that can be verbatim extracted from context. CopySpec identifies repeated sequences in the model{'}s chat history or context and speculates that the same tokens will follow, enabling seamless copying without compromising output quality and without requiring additional GPU memory. To evaluate the effectiveness of our approach, we conducted experiments using seven LLMs and five datasets: MT-Bench, CNN/DM, GSM8K, HumanEval, and our newly created dataset, MT-Redundant. MT-Redundant, introduced in this paper, transforms the second turn of MT-Bench into a request for variations of the first turn{'}s answer, simulating real-world scenarios where users request modifications to prior responses. Our results demonstrate significant speed-ups: up to 2.35x on CNN/DM, 3.08x on the second turn of select MT-Redundant categories, and 2.66x on the third turn of GSM8K{'}s self-correction tasks. Importantly, we show that CopySpec integrates seamlessly with speculative decoding, yielding an average 49{\%} additional speed-up over speculative decoding for the second turn of MT-Redundant across all eight categories. While LLMs, even with speculative decoding, suffer from slower inference as context size grows, CopySpec leverages larger contexts to accelerate inference, making it a faster complementary solution. Our code and dataset are publicly available at https://github.com/RazvanDu/CopySpec."
+}
+
 @inproceedings{yang-etal-2025-llm-distracted,
     title = "How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark",
     author = "Yang, Minglai and Huang, Ethan and Zhang, Liang and Surdeanu, Mihai and Wang, William and Pan, Liangming",
