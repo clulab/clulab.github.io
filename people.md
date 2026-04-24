@@ -70,6 +70,8 @@ Asiful Islam, Computer Science
 
 [Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/), Information Science
 
+[Oghenevovwe Ikumariegbe](https://abby-ogv.github.io), Computer Science
+
 #### Research Programmers ####
 
 [Keith Alcock](http://www.keithalcock.com), Computer Science
