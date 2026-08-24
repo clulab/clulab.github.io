@@ -21,6 +21,8 @@ order: 1
 
 [Haw-Shiuan Chang](https://ken77921.github.io/), Information Science
 
+[Lingyao Li](https://sociotechnical-ai-lab.github.io/), Information Science
+
 [Ellen Riloff](http://www2.cs.arizona.edu/~riloff/) ([@ellenriloff](https://twitter.com/ellenriloff)), Computer Science
 
 [Mihai Surdeanu](http://www.surdeanu.info/mihai) ([@msurd](https://twitter.com/msurd)), Computer Science, Linguistics, Cognitive Science
