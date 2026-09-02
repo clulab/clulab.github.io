@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Software"
-order: 5
+order: 4
 ---
 
 See our [github page](https://github.com/clulab) for all our projects.
