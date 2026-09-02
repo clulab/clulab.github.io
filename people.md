@@ -7,19 +7,21 @@ order: 1
 
 #### Faculty ####
 
-[Steven Bethard](http://bethard.github.io), School of Information, Linguistics, Computer Science, Cognitive Science
+[Steven Bethard](http://bethard.github.io), Information Science, Linguistics, Computer Science, Cognitive Science
 
 [Eduardo Blanco](https://eduardoblanco.github.io/), Computer Science
 
 [Gus Hahn-Powell](https://linguistics.arizona.edu/user/gus-hahn-powell), Linguistics
 
-[Peter Jansen](http://ischool.arizona.edu/users/peter-jansen) ([@peterjansen_ai](https://twitter.com/peterjansen_ai)), School of Information
+[Peter Jansen](http://ischool.arizona.edu/users/peter-jansen) ([@peterjansen_ai](https://twitter.com/peterjansen_ai)), Information Science
 
-[Clayton Morrison](http://w3.sista.arizona.edu/~clayton/), School of Information, Statistics GIDP
+[Clayton Morrison](http://w3.sista.arizona.edu/~clayton/), Information Science, Statistics GIDP
 
-[Liangming Pan](https://liangmingpan.bio/), School of Information
+[Adarsh Pyarelal](http://adarsh.cc), Information Science
 
-[Adarsh Pyarelal](http://adarsh.cc), School of Information
+[Haw-Shiuan Chang](https://ken77921.github.io/), Information Science
+
+[Lingyao Li](https://sociotechnical-ai-lab.github.io/), Information Science
 
 [Ellen Riloff](http://www2.cs.arizona.edu/~riloff/) ([@ellenriloff](https://twitter.com/ellenriloff)), Computer Science
 
@@ -27,7 +29,7 @@ order: 1
 
 #### Postdocs, Research Scientists ####
 
-[Egoitz Laparra](https://egolaparra.github.io), School of Information
+[Egoitz Laparra](https://egolaparra.github.io), Information Science
 
 [Enrique Noriega](https://enoriega.info), Computer Science
 
@@ -36,11 +38,15 @@ order: 1
 
 Fahmida Alam, Computer Science
 
-[Enfa Rose George](https://www.beingenfa.com), Computer Science
+[Enfa Fane _<small>(prev: Enfa George)</small>_](https://www.beingenfa.com), Computer Science
 
 Asiful Islam, Computer Science
 
-[Bulut Özler](https://ischool.arizona.edu/people/bulut-ozler), School of Information
+[Ayesha Khatun](https://www.linkedin.com/in/ayeshakhatunsujana/), Information Science
+
+[Yeaeun Kwon](https://yeaeunkwon.github.io/), Information Science
+
+[Kadir Bulut Özler](https://www.linkedin.com/in/kbozler/), Information Science
 
 [Haris Riaz](https://hriaz17.github.io/), Computer Science
 
@@ -48,13 +54,13 @@ Asiful Islam, Computer Science
 
 [Reza Sanayei](https://rsanayei.github.io/), Computer Science
 
-[Sarah Stueve](https://ischool.arizona.edu/people/sarah-stueve), School of Information
-
-[Xin Su](https://xinsu.name), School of Information
+[Sarah Stueve](https://www.linkedin.com/in/sarah-stueve/), Information Science
 
 [Zijie Wang](https://wang-zijie.github.io/), Computer Science
 
-Jiacheng Zhang, School of Information
+[Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/), Information Science
+
+[Oghenevovwe Ikumariegbe](https://abby-ogv.github.io), Computer Science
 
 #### Research Programmers ####
 
@@ -73,6 +79,8 @@ Jiacheng Zhang, School of Information
 [Portia Cooper](https://pcoopercoder.github.io), 2025 MS in Computer Science, now a PhD student at University of Washington.
 
 [Maria Alexeeva](https://maxaalexeeva.github.io/), 2025 PhD in Linguistics, now at Meta.
+
+[Xin Su](https://xinsu.name), 2024 PhD in Information Science, now at Intel.
 
 [Robert Vacareanu](https://www.cs.arizona.edu/person/robert-vacareanu), 2024 PhD in Computer Science, now at Scale.AI.
 
@@ -120,4 +128,4 @@ Dane Bell, 2018 PhD in Linguistics, is currently at [lum.ai](https://lum.ai), wh
 
 [Anh Tran](https://trananh.github.io), 2014 PhD in Computer Science, is currently a software engineer at Google.
 
-[Peter Jansen](https://infosci.arizona.edu/person/peter-jansen), postdoc in the lab in 2013, is currently an associate professor in the School of Information at the University of Arizona.
+[Peter Jansen](https://infosci.arizona.edu/person/peter-jansen), postdoc in the lab in 2013, is currently an associate professor in the College of Information Science at the University of Arizona.

@@ -16,5 +16,5 @@ The Computational Language Understanding (CLU) Lab at [University of Arizona](ht
 
 These systems were used in several applications, ranging from extracting cancer signaling pathways from biomedical articles to automated systems for answering multiple-choice science-exam questions.
 
-The CLU lab includes members from the [Computer Science department](http://cs.arizona.edu/), the [Linguistics department](http://linguistics.arizona.edu/), and the [School of Information](http://ischool.arizona.edu/). For more on natural language processing (NLP) work at UofA, please see our [NLP cluster page](http://nlp.arizona.edu/).
+The CLU lab includes members from the [Computer Science department](http://cs.arizona.edu/), the [Linguistics department](http://linguistics.arizona.edu/), and the [College of Information Science](http://infosci.arizona.edu/). For more on natural language processing (NLP) work at UofA, please see our [NLP cluster page](http://nlp.arizona.edu/).
 </div>
