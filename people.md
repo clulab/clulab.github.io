@@ -25,7 +25,7 @@ order: 1
 
 [Ellen Riloff](http://www2.cs.arizona.edu/~riloff/) ([@ellenriloff](https://twitter.com/ellenriloff)), Computer Science
 
-[Mihai Surdeanu](http://www.surdeanu.info/mihai) ([@msurd](https://twitter.com/msurd)), Computer Science, Linguistics, Cognitive Science
+[Mihai Surdeanu](http://mihaisurdeanu.github.io) ([@msurd](https://twitter.com/msurd)), Computer Science, Linguistics, Cognitive Science
 
 #### Postdocs, Research Scientists ####
 
@@ -36,21 +36,35 @@ order: 1
 
 #### Students ####
 
-Fahmida Alam, Computer Science
+[Fahmida Alam](https://cs.arizona.edu/person/fahmida-alam), Computer Science
+
+[Aunabil Chakma](https://cs.arizona.edu/person/aunabil-chakma), Computer Science
 
 [Enfa Fane _<small>(prev: Enfa George)</small>_](https://www.beingenfa.com), Computer Science
 
-Asiful Islam, Computer Science
+[Xinyu Guo](https://cs.arizona.edu/person/xinyu-guo), Computer Science
+
+[Caroline Campbell Hyland](https://science.arizona.edu/person/caroline-hyland), Computer Science
+
+[Asiful Islam](https://cs.arizona.edu/person/md-asiful-islam), Computer Science
+
+[Oghenevovwe Ikumariegbe](https://abby-ogv.github.io), Computer Science
 
 [Ayesha Khatun](https://www.linkedin.com/in/ayeshakhatunsujana/), Information Science
 
 [Yeaeun Kwon](https://yeaeunkwon.github.io/), Information Science
 
+[Ruoshan Lan](https://cs.arizona.edu/person/ruoshan-lan), Computer Science
+
+[Hojae Lee](https://www.linkedin.com/in/hojae-lee/), Computer Science
+
+[Harshita Narnoli](https://cs.arizona.edu/person/harshita-narnoli), Computer Science
+
 [Kadir Bulut Özler](https://www.linkedin.com/in/kbozler/), Information Science
 
 [Haris Riaz](https://hriaz17.github.io/), Computer Science
 
-[Saiful Islam Salim](https://scholar.google.com/citations?user=PRLujl4AAAAJ&hl=en), Computer Science
+[Saiful Islam Salim](https://cs.arizona.edu/person/saiful-islam-salim), Computer Science
 
 [Reza Sanayei](https://rsanayei.github.io/), Computer Science
 
@@ -60,7 +74,6 @@ Asiful Islam, Computer Science
 
 [Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/), Information Science
 
-[Oghenevovwe Ikumariegbe](https://abby-ogv.github.io), Computer Science
 
 #### Research Programmers ####
 
@@ -116,7 +129,7 @@ Asiful Islam, Computer Science
 
 [Gustave Hahn-Powell](https://www.linkedin.com/in/gushahnpowell/), 2018 PhD in Linguistics, is currently an assistant professor of Linguistics at the University of Arizona, as well as a co-founder of [lum.ai](https://lum.ai).
 
-Dane Bell, 2018 PhD in Linguistics, is currently at [lum.ai](https://lum.ai), which he co-founded.
+Wendy Herongrove, 2018 PhD in Linguistics, is currently at [lum.ai](https://lum.ai), which he co-founded.
 
 [Thomas Hicks](https://www.linkedin.com/in/hickst/), research programmer in our group until 2018, is currently a computing sciences researcher at the College of Information Science at the University of Arizona.
 
