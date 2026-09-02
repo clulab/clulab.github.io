@@ -12,7 +12,7 @@ order: 0
 </div>
 
 <div class="col-sm-8">
-The Computational Language Understanding (CLU) Lab at [University of Arizona](http://www.arizona.edu/) is a team of faculty, students, and research programmers who work together to build systems that extract meaning from natural language texts, including question answering (answering natural language questions), information extraction (extracting specific relations and events), semantic role labeling (extracting semantic frames that model who did what to whom, when and where), parsing the discourse structure of complex texts, and other computational linguistics problems.
+The Computational Language Understanding (CLU) Lab at [University of Arizona](http://www.arizona.edu/) is a team of faculty, students, and research programmers who work together on natural language processing, that is, building systems that extract meaning from natural language texts. This includes question answering (answering natural language questions), information extraction (extracting specific relations and events), semantic role labeling (extracting semantic frames that model who did what to whom, when and where), parsing the discourse structure of complex texts, and other computational linguistics problems.
 
 These systems were used in several applications, ranging from extracting cancer signaling pathways from biomedical articles to automated systems for answering multiple-choice science-exam questions.
 

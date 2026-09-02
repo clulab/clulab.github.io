@@ -29,8 +29,6 @@ order: 1
 
 [Egoitz Laparra](https://egolaparra.github.io), School of Information
 
-Marco A. Valenzuela-Escarcega, Computer Science
-
 [Enrique Noriega](https://enoriega.info), Computer Science
 
 
@@ -38,21 +36,11 @@ Marco A. Valenzuela-Escarcega, Computer Science
 
 Fahmida Alam, Computer Science
 
-[Maria Alexeeva](https://maxaalexeeva.github.io/), Linguistics
-
-[Portia Cooper](https://pcoopercoder.github.io), Computer Science
-
-[Razvan Dumitru](https://github.com/RazvanDu), Computer Science
-
 [Enfa Rose George](https://www.beingenfa.com), Computer Science
 
 Asiful Islam, Computer Science
 
 [Bulut Özler](https://ischool.arizona.edu/people/bulut-ozler), School of Information
-
-[Mahdi Rahimi](https://www.cs.arizona.edu/person/mahdi-rahimi), Computer Science
-
-[MohammadHossein Rezaei](https://mhrezaei.com), Computer Science
 
 [Haris Riaz](https://hriaz17.github.io/), Computer Science
 
@@ -64,8 +52,6 @@ Asiful Islam, Computer Science
 
 [Xin Su](https://xinsu.name), School of Information
 
-[Minglai Yang](https://ymingl.com), Computer Science
-
 [Zijie Wang](https://wang-zijie.github.io/), Computer Science
 
 Jiacheng Zhang, School of Information
@@ -75,6 +61,18 @@ Jiacheng Zhang, School of Information
 [Keith Alcock](http://www.keithalcock.com), Computer Science
 
 #### Alumni ####
+
+[Razvan Dumitru](https://github.com/RazvanDu), 2025 PhD in Computer Science, now at Scale.AI.
+
+[Mahdi Rahimi](https://www.cs.arizona.edu/person/mahdi-rahimi), 2025 PhD in Computer Science.
+
+[MohammadHossein Rezaei](https://mhrezaei.com), 2025 BS in Computer Science, now at Scale.AI.
+
+[Minglai Yang](https://ymingl.com), 2025 BS in Computer Science, now at Scale.AI.
+
+[Portia Cooper](https://pcoopercoder.github.io), 2025 MS in Computer Science, now a PhD student at University of Washington.
+
+[Maria Alexeeva](https://maxaalexeeva.github.io/), 2025 PhD in Linguistics, now at Meta.
 
 [Robert Vacareanu](https://www.cs.arizona.edu/person/robert-vacareanu), 2024 PhD in Computer Science, now at Scale.AI.
 
@@ -116,7 +114,7 @@ Dane Bell, 2018 PhD in Linguistics, is currently at [lum.ai](https://lum.ai), wh
 
 [Rebecca Sharp](https://www.linkedin.com/in/rebecca-sharp-b5163b12b/), 2017 PhD in Linguistics, is now a Research Scientist at [Lex Machina](https://lexmachina.com).
 
-[Marco A. Valenzuela-Escarcega](https://www.linkedin.com/in/marco-antonio-valenzuela-esc%C3%A1rcega-08b7a96b/), 2016 PhD in Computer Science, is currently a research scientist in the CLU lab, as well as a co-founder of [lum.ai](http://lum.ai).
+[Marco A. Valenzuela-Escarcega](https://www.linkedin.com/in/marco-antonio-valenzuela-esc%C3%A1rcega-08b7a96b/), 2016 PhD in Computer Science, then a research scientist in the CLU lab, as well as a co-founder of [lum.ai](http://lum.ai). Now at [Lex Machina](https://lexmachina.com).
 
 [Daniel Fried](https://dpfried.github.io/), 2014 BS in Computer Science, is currently an assistant professor at CMU.
 
