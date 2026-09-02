@@ -8,7 +8,7 @@ order: 0
 
 <div class="row">
 <div class="col-sm-4 d-flex justify-content-center align-items-center">
-<image src="assets/images/clulab.png" width="200" />
+<image src="assets/images/clulab2.png" width="200" />
 </div>
 
 <div class="col-sm-8">
