@@ -107,7 +107,7 @@ order: 1
 
 [Zhengzhong Liang](https://www.linkedin.com/in/zhengzhong-liang-095810137/), 2023 PhD in Computer Science is currently a software engineer at Google.
 
-[Mithun Paul](https://www.linkedin.com/in/mithunpaul/), 2022 PhD in Computer Science is currently a research scientist and product manager at the University of Arizona.
+[Mithun Paul](https://www.linkedin.com/in/mithunpaul/), 2022 PhD in Computer Science is currently an assistant professor in the Computer Science department at the Northern Arizona University.
 
 [Hoang Nguyen Hung Van](https://www.linkedin.com/in/hoangnhvan/), 2022 PhD in Computer Science is currently a postdoctoral researcher at Harvard Medical School.
 
