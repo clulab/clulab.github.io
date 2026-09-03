@@ -68,8 +68,6 @@ order: 1
 
 [Sarah Stueve](https://www.linkedin.com/in/sarah-stueve/), Information Science
 
-[Zijie Wang](https://wang-zijie.github.io/), Computer Science
-
 [Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/), Information Science
 
 [Tian Tan](https://tt159.github.io/), Computer Science
@@ -79,6 +77,8 @@ order: 1
 [Keith Alcock](http://www.keithalcock.com), Computer Science
 
 #### Alumni ####
+
+[Zijie Wang](https://wang-zijie.github.io/), 2026 PhD in Computer Science, now at Amazon.
 
 [Razvan Dumitru](https://github.com/RazvanDu), 2025 PhD in Computer Science, now at Scale.AI.
 
