@@ -72,6 +72,7 @@ order: 1
 
 [Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/), Information Science
 
+[Tian Tan](https://tt159.github.io/), Computer Science
 
 #### Research Programmers ####
 
