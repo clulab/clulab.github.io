@@ -31,8 +31,6 @@ order: 1
 
 [Egoitz Laparra](https://egolaparra.github.io), Information Science
 
-[Enrique Noriega](https://enoriega.info), Computer Science
-
 
 #### Students ####
 
@@ -74,6 +72,7 @@ order: 1
 
 [Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/), Information Science
 
+[Tian Tan](https://tt159.github.io/), Computer Science
 
 #### Research Programmers ####
 
@@ -121,7 +120,7 @@ order: 1
 
 [John Culnan](https://www.linkedin.com/in/john-culnan-354a224a/), 2021 PhD in Linguistics.
 
-[Enrique Noriega](https://www.linkedin.com/in/enoriega/), 2020 PhD in Information, is currently a postdoc in the CLU lab.
+[Enrique Noriega](https://www.linkedin.com/in/enoriega/), 2020 PhD in Information, is currently a research scientist at [Gyori Lab](https://gyorilab.github.io/#team) in Northeastern University.
 
 [Farig Sadeque](https://www.linkedin.com/in/farig-sadeque-a982125b/), 2019 PhD in Information, is currently an associate professor at BRAC University.
 
