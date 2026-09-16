@@ -44,7 +44,7 @@ order: 1
 
 [Caroline Campbell Hyland](https://science.arizona.edu/person/caroline-hyland), Computer Science
 
-[Asiful Islam](https://cs.arizona.edu/person/md-asiful-islam), Computer Science
+[Md Asiful Islam](https://asifulislam.com), Computer Science
 
 [Oghenevovwe Ikumariegbe](https://abby-ogv.github.io), Computer Science
 
