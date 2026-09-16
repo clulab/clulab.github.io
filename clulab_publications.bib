@@ -1,3 +1,19 @@
+@inproceedings{riaz-etal-2026-beyond,
+    title = "Beyond Sequence Order: Syntax-Informed Positional Embeddings for Transformers",
+    author = "Riaz, Haris  and
+      Kim, Hyungji  and
+      Surdeanu, Mihai",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2608.06111",
+    url_Blog = "https://hriaz17.github.io/SiPE/",
+    url_Code = "https://github.com/hriaz17/SiPE",
+    abstract = "Positional embeddings (PE) in Transformers encode token distance and order but are largely agnostic to syntactic structure. We introduce Syntax-informed Positional Embeddings (SiPE), which learns a lightweight syntactic prior from dependency parses during pretraining and injects it across all three dominant PE families (absolute, relative, rotary), for both encoders and decoders, leaving self-attention and the rest of the architecture untouched. We isolate where and how the prior should enter the model, and find it depends on the architecture: for autoregressive decoders that use relative PE, the prior is strongest when coupled multiplicatively with the relative-position term of the attention score, outperforming injection into the input embeddings, into self-attention, or into the positional and attention terms jointly, while for encoders it is best added directly to the input embeddings, composing with each encoder's native positional mechanism. We find that models pre-trained with SiPE improve on the SyntaxGym benchmark by up to 10.3{\%} while simultaneously reducing perplexity by 9.0{\%} over a base model with no syntactic supervision, a metric nearly every existing syntax-injection method instead degrades. Crucially, these gains extend beyond syntactic generalization: SiPE also improves real-world language understanding, raising scores on the GLUE benchmark by up to 8.2{\%} over a model trained without it. Unlike existing syntactic language models that marginalize over many parses at inference or discard syntax at runtime, SiPE conditions on a single parse, establishing a new Pareto frontier between syntactic supervision and inference cost."
+}
+
 @inproceedings{wang-etal-2026-commonsense,
     title = "Commonsense Knowledge with Negation: A Resource to Enhance Negation Understanding",
     author = "Wang, Zijie  and
